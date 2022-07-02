@@ -1,22 +1,5 @@
-hello mygit! 
-ooooooooooooooooiiiiiiiiiiii
-second change --add newbranch
-hello mygit!
-update by hot-fix
+hello mygit
+hello mygit
 hello mygit!
 hello mygit!
-hello mygit!
-hello mygit!
-hello mygit!
-hello mygit!
-<<<<<<< HEAD
-hello mygit!
-hello mygit!  master reset
-hello mygit!
-
-=======
-hello mygit!hello mygit!
-hello mygit!
-hello mygit!
->>>>>>> hot-fix
--------------------------GG
+===========by kkx
