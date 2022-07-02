@@ -18,3 +18,4 @@ hello mygit!hello mygit!
 hello mygit!
 hello mygit!
 >>>>>>> hot-fix
+-------------------------GG
